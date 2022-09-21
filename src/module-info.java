@@ -1,0 +1,2 @@
+module quiz6POO {
+}
